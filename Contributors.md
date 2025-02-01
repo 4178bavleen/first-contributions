@@ -11,6 +11,7 @@
 - [Sushovit Shah](https://github.com/Sushovit204)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
+  [bavleen]
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
 - [Aatif Khan](https://github.com/Aatif-K47)
@@ -379,6 +380,7 @@
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute! -[Muhammad Abdullah](https://github.com/mAbdullahrana) : First contribution!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
+- 
 - [Rajas Patankar](https://github.com/patraj20): Exploring open source
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Solaymane Himite](https://github.com/solaymanehimite) :20/01/2025
